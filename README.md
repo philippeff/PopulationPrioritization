@@ -21,4 +21,5 @@ Lodgepole pine genomic database: https://datadryad.org/stash/dataset/doi:10.5061
 REFERENCES:
 
 Bay, R. A., Harrigan, R. J., Underwood, V. Le, Gibbs, H. L., Smith, T. B., & Ruegg, K. (2018). Genomic signals of selection predict climate-driven population declines in a migratory bird. Science, 359(6371), 83–86.
+
 Mahony, C. R., MacLachlan, I. R., Lind, B. M., Yoder, J. B., Wang, T., & Aitken, S. N. (2019). Evaluating genomic data for management of local adaptation in a changing climate: A lodgepole pine case study. Evolutionary Applications, (July 2019), 116–131.
