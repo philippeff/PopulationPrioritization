@@ -5,12 +5,12 @@ FILES:
 1. "FernandezFournier_analysis_LFMM.R" - genotype-environment association analysis of yellow warbler data (from Bay et al. 2018)
 2. "FernandezFournier_analysis_YW.R" - Analysis of yellow warbler data (Bay et al. 2018)
 3. "FernandezFournier_analysis_LP.R" - Analysis of lodgepole pine data (Mahony et al. 2019)
-4. "popgen_functions.R" - Code for user-defined functions
+4. "FernandezFournier_functions.R" - Code for user-defined functions
 5. "pvalues_climSNPs.csv" - P-values of environment-associated SNPs in yellow warblers
 6. "pvalues_phenoSNPs.csv" - P-values of phenotype-associated SNPs in lodgepole pines
 7. "pop_coord_YW.csv" - Population metadata (e.g. geographical coordinates) for yellow warblers
 8. "pop_coord_LP.csv" - Population metadata (e.g. geographical coordinates) for lodgepolepines
-9 & 10. "meta_YW.txt" and "meta_YW_filter.csv" - metadata for yellow warblers
+9. "meta_YW.txt" and "meta_YW_filter.csv" - metadata for yellow warblers
 
 Genetic databases are available by contacting the authors of Bay et al. (2018) and Mahony et al. (2019) and at the following sources:
 
