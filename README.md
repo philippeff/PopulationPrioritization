@@ -15,6 +15,7 @@ FILES:
 Genetic databases are available by contacting the authors of Bay et al. (2018) and Mahony et al. (2019) and at the following sources:
 
 Yellow warbler genomic database: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA421926
+
 Lodgepole pine genomic database: https://datadryad.org/stash/dataset/doi:10.5061/dryad.56j8vq8
 
 
