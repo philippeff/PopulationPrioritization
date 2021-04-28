@@ -3,7 +3,7 @@
 #################################################
 
 # Title: Do we need to identify adaptive genetic variation when prioritizing populations for conservation?
-# Authors: Philippe Fernandez-Fournier1*, Jayme M. M. Lewthwaite1*, Arne Ø. Mooers1
+# Authors: Philippe Fernandez-Fournier1*, Jayme M. M. Lewthwaite1*, Arne Ã˜. Mooers1
 # 1Department of Biological Sciences, Simon Fraser University, 8888 University Drive, Burnaby, British Columbia V5A 1S6, Canada.
 # *PFF and JL contributed equally to this work and should be considered joint first author.
 # Journal: Conservation Genetics
@@ -102,7 +102,7 @@ d.pca.all <- stats::dist(pca.all.cen[,2:(n.pc.all+1)], method = "euclidean")
 writeDist(d.pca.all, "d_pca_all_subpop.dist") 
 
 # Open dist in SplitsTree and save as NEX file
-splitstree_pff(dist.file = "d_pca_all_subpop.dist", nexus.out = "nnet_all_subpop.nex") #Function to compute neighborNet from dist file in SplitsTree (I'm a genius)
+splitstree_pff(dist.file = "d_pca_all_subpop.dist", nexus.out = "nnet_all_subpop.nex") #Function to compute neighborNet from dist file in SplitsTree
 
 # NeighborNet
 nnet.pca.all <- read.nexus.networx("nnet_all_subpop.nex", splits = TRUE)
